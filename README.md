@@ -6,7 +6,7 @@ _why_ people use media to spread information over networks.
 
 # Curated Projects
 
-## Music Software {#music-software}
+## Music Software
 
 -   [Olearia](https://github.com/CarlColglazier/Olearia) is a collection of applets for the Daisy Patch.
 -   [ES-5Linx](https://github.com/CarlColglazier/ES-5Linx) is a VST and JACK utility to handle the Expert Sleepers ES-5 Eurorack expansion on Linux.
