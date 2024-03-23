@@ -1,8 +1,8 @@
-I am a first-year PhD student in Technology and Social Behavior at
-Northwestern University, where I plan to study media systems and
-their impact on public discourse.  I am also interested in the
-relationship between online and offline communities and _how_ and
-_why_ people use media to spread information over networks.
+I am a PhD student in Technology and Social Behavior at Northwestern University where I am affiliated with the Community Data Science Collective.
+
+My research focuses on decentralized social networks like the Fediverse and their role as sociotechnical systems. I like to use computational social science.
+
+At North Carolina State University, I graduated in 2019 with a B.S. in Computer Science and a B.A. in Communication Media. Previously, I worked as intern in full stack software engineering at IBM and as an undergraduate researcher at the Center for Research Computing at the University of Notre Dame.
 
 # Curated Projects
 
