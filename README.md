@@ -6,3 +6,4 @@ My research focuses on decentralized social networks like the Fediverse and thei
 
 - [My website](https://github.com/carlcolglazier/carlcolglazier.com), which hosts a few data science projects under [`notes/`](https://carlcolglazier.com/notes/)
 - [`bsky-sampler`](https://github.com/CarlColglazier/bsky-sampler), an esoteric API that returns the text from $n = 1$ of my recent Bluesky posts.
+- [`Olearia`](https://github.com/CarlColglazier/Olearia), a custom firmware for the ElectroSmith Daisy Patch Eurorack module.
