@@ -2,3 +2,7 @@ I am a Doctoral Candidate in Technology and Social Behavior at Northwestern Univ
 
 My research focuses on decentralized social networks like the Fediverse and their role as sociotechnical systems. My research often uses computational social science to investigate how these systems handle “tricky problems” like content moderation and discovery. Some of my "academic" code lives on our lab [Gitea server](https://gitea.communitydata.science/CarlColglazier).
 
+## I am currently hacking on
+
+- [My website](https://github.com/carlcolglazier/carlcolglazier.com), which hosts a few data science projects under [`notes/`](https://carlcolglazier.com/notes/)
+- [`bsky-sampler`](https://github.com/CarlColglazier/bsky-sampler), an esoteric API that returns the text from $n = 1$ of my recent Bluesky posts.
